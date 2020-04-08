@@ -11,6 +11,7 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#nut_and_bolt-testes">Testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -39,6 +40,7 @@ O Be The Hero é um projeto desenvolvido na semana omnistack, foi criado um sist
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 ## :nut_and_bolt: Testes
+- Dentro do projeto ``` backend/ ``` execute ``` yarn test ``` para executar os testes.
 
 ## :memo: Licença
 
