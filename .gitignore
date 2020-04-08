@@ -48,6 +48,6 @@ frontend/yarn-error.log*
 backend/mode_modules/
 backend/src/database/db.sqlite
 backend/src/database/test.sqlite
-
+backend/src/database/*.sqlite
 
 
